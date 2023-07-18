@@ -50,7 +50,7 @@ CCS2 port images have been taken from a distance of 20cm from the camera at vari
 The model summary is shown:
 ```
 _________________________________________________________________
- Layer (type)                Output Shape              Param #   
+ Layer (type)                Output Shape              Param   
 =================================================================
  input_1 (InputLayer)         [(None, 128, 128, 3)]    0         
                                                                  
